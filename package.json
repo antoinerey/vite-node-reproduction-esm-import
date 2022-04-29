@@ -1,0 +1,14 @@
+{
+  "name": "vitest-reproduction-fail-esm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Antoine Rey",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite-node index.ts"
+  },
+  "dependencies": {
+    "msw": "^0.39.2",
+    "vite-node": "^0.10.0"
+  }
+}
